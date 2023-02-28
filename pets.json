@@ -1,0 +1,75 @@
+[
+  {
+    "id": 0,
+    "name": "Carrot Cake",
+    "picture": "images/carrotcake2.jpg",
+    "size": "M" ,
+    "Detail": "Carrot Cake Cheesecake 120 g./piece",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 1,
+    "name": "Cheesecake",
+    "picture": "images/SaltedCaramelCheesecake.png",
+    "size": "M",
+    "Detail": "Caramel Cheesecake 120 g./piece",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 2,
+    "name": "Redvelvet cookies",
+    "picture": "images/redcookies.png",
+    "size": "M",
+    "Detail": "Redvelvet Creamcheese cookies 100 g./box",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 3,
+    "name": "Brownie cookies",
+    "picture": "images/chocolatecookies.png",
+    "size": "M",
+    "Detail": "Chocolate Brownie cookies 100 g./box",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 4,
+    "name": "Macadamia cookies",
+    "picture": "images/whitechocolatemacadamiacookies.png",
+    "size": "M",
+    "Detail": "Chocolate Macadamia Cookies 100 g./box",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 5,
+    "name": "Mango Vinila Mousse Cake",
+    "picture": "images/mangocake.png",
+    "size": "M",
+    "Detail": "Mango Cake with Strawberry 120 g./piece",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 6,
+    "name": "Raspberry CheeseCake",
+    "picture": "images/raspberrycake.png",
+    "size": "M",
+    "Detail": "Raspberry Cream Cake 100 g./piece",
+    "location": "Cake Shop",
+    "cost":10
+  },
+  {
+    "id": 7,
+    "name": "Vanilla mousse cake",
+    "picture": "images/raspberryvanillamoussecake.png",
+    "size": "M",
+    "Detail": "Raspberry Vanilla mousse cake 120 g./piece",
+    "location": "Cake Shop",
+    "cost":10
+  }
+  
+]
